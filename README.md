@@ -7,7 +7,8 @@ Screenshots attached in the deliverable5.pdf under the same resipotory.
 https://techguile.wordpress.com/2012/11/25/list-of-demo-websites-of-security-testing-purpose/
 
 
-1.	X-Frame-Options Header Not Set
+#
+# 1.	X-Frame-Options Header Not Set
 
 URLs with this vulnerability:
 https://techguile.wordpress.com/
@@ -26,7 +27,7 @@ Steps to fix this vulnerability:
 a. Set X-Frame-Options HTTP header on all web pages returned by this site.
 b. Employ defensive code in the UI to ensure that the current frame is the most top level window.
 
-2.	Cross-Domain JavaScript Source File Inclusion
+# 2.	Cross-Domain JavaScript Source File Inclusion
 
 URLs with this vulnerability:
 https://techguile.wordpress.com/2012/11/25/list-of-demo-websites-of-security-testing-purpose/
@@ -48,7 +49,7 @@ b.	The JavaScript sources can't be controlled by end users of the application.
 
 
 
-3.	Password Autocomplete in Browser
+# 3.	Password Autocomplete in Browser
 
 URLs with this vulnerability:
 https://techguile.wordpress.com/wp-login.php
@@ -68,7 +69,7 @@ Steps to fix this vulnerability:
 Setting AUTOCOMPLETE='OFF' to turn off the AUTOCOMPLETE attribute in forms or individual input elements containing password inputs. 
 
 
-4.	Web Browser XSS Protection Not Enabled
+# 4.	Web Browser XSS Protection Not Enabled
 URLs with this vulnerability:
 http://techguile.wordpress.com/?p=5
 https://techguile.wordpress.com/2012/11/
