@@ -1,5 +1,4 @@
-#IS 2545 Software Quality Assurance
-#Deliverable 5
+#IS 2545 Software Quality Assurance Deliverable 5
 #Nanxun Xie(nax4) Yifan Zhao(yiz105)
 Screenshots attached in the deliverable5.pdf under the same resipotory.
 
