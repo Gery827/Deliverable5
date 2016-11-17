@@ -1,8 +1,7 @@
 #IS 2545 Software Quality Assurance
 #Deliverable 5
-Nanxun Xie(nax4)
-Yifan Zhao(yiz105)
-#Screenshots attached in the deliverable5.pdf under the same resipotory.
+#Nanxun Xie(nax4) Yifan Zhao(yiz105)
+Screenshots attached in the deliverable5.pdf under the same resipotory.
 
 4 vulnerabilities in 
 https://techguile.wordpress.com/2012/11/25/list-of-demo-websites-of-security-testing-purpose/
